@@ -1,1 +1,1 @@
-return "Hello my friend!"
+print "Hello my friend!"
